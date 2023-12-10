@@ -1,1 +1,1 @@
-FROM quay.io/cilium/cilium:v1.13.0
+FROM quay.io/cilium/cilium:v1.14.4
